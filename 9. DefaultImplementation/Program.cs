@@ -1,0 +1,4 @@
+﻿interface IDraw
+{
+
+}
